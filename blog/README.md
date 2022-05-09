@@ -6,10 +6,10 @@ Laravel projektas
 Pirma paleisti šią klonavimo procedūrą:
 git clone git@github.com:aldjon/Laravel-Projektas larprj61 
 
-Tada reik composerio pagr folder
+Tada reikia composerio pagrindiniame aplanke paleisti šią komandą
 composer install
 
-Tada reik duomenu bazes
+Tada reikia duomenų bazės
 php artisan db
 
 Ir tada is mysql sukurti duomenu baze
